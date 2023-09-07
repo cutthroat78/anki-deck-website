@@ -1,5 +1,5 @@
 <details>
-    <summary>About</summary>
+    <summary><h1>About</h1></summary>
     <p>This is my collection of Anki Decks that I have created. Each entry will have a link to download the latest version and a link to visit that Anki Deck's GitHub Repo, where the CSV file(s) made to create the Anki Deck is, as well as the note type code and media files for the Anki Deck. The repo will also contain links to the resources I used to make the Anki Deck. I release the Anki Deck in .apkg form using GitHub Releases</p>
 </details>
 
