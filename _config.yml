@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: "Sionnach's Anki Decks"
+description: "Anki Decks On Languages, Computing and More"
+author: "Sionnach"
+show_downloads: false
+github:
+   is_project_page: false
